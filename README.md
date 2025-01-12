@@ -1,6 +1,6 @@
 # Analysis of Spotify Track Data
 
-#### This repository features analyses on a dataset containing data on 81,344 tracks featured on Spotify. The dataset contains only one track per artist, after removal of duplicates. 
+#### This repository features analyses on a dataset containing data on 81,344 tracks featured on Spotify. The dataset contains an average of 2.59 tracks per artist, after removal of duplicates. 
 
 ## Column Description
 #### From Kaggle: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
@@ -48,5 +48,8 @@
 ###### These differences are visualised in barplots
 
 ### Popularity of each genre
-###### The popularity of each of the 114 track genres is presented in an interactive plot, which is stored under docs/index.html
+###### The popularity of each of the 113 track genres is presented in an interactive plot, which is stored under docs/index.html
 ###### The plot can be viewed on Github Pages: https://niallrussell.github.io/PDFA-project/
+
+### Popularity of each artist
+###### The 20 most popular artists are listed. However, limited insights can be drawn as only a select number of tracks from each artist are included in the dataset. A large number of Spotify's most popular tracks are not included. 
