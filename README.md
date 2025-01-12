@@ -53,3 +53,19 @@
 
 ### Popularity of each artist
 ###### The 20 most popular artists are listed. However, limited insights can be drawn as only a select number of tracks from each artist are included in the dataset. A large number of Spotify's most popular tracks are not included. 
+
+### Live Genres
+###### Tracks are divided on whether they were performed live or not. Track genres are ranked in order of what percentage of tracks are performed live, with Comedy and Pagode tracks scoring highest.
+###### Live and non-live tracks are compared on each of the scale variables. Comedy tracks are removed and live and non-live tracks are compared again to determine whether comedy tracks have an effect on the results.
+###### After comedy tracks are removed, results show:
+###### Live tracks score lower on danceability and instrumentalness and tempo
+###### Live tracks score higher on acousticness, energy, tempo and speechiness. Live tracks are also longer.
+###### The removal of comedy tracks saw the difference in speechiness scores shrink, suggesting high speechiness in live comedy tracks
+
+### Comedy tracks
+###### Because of this effect, difference in live and non-live comedy tracks are explored. 
+###### Live comedy tracks score higher in speechiness, while non-live comedy tracks are more popular 
+
+### Are live tracks more explicit?
+###### Lastly, a chi-square is performed to determine if live tracks are more likely to have explicit lyrics
+###### In fact, non-live tracks were found to contain explicit lyrics more often than expected, with live lyrics containing explicit lyrics less often than expected. 
