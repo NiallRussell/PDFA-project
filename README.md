@@ -29,14 +29,14 @@
 ### Correlations
 ###### Exploratory correlational analysis was conducted on all scale variables
 ###### Positive correlations were found between:
-###### >* Energy and loudness
-###### >* Danceability and valence
+###### * Energy and loudness
+###### * Danceability and valence
 
 ###### Negative correlations were found between:
-###### >* Energy and acousticness
-###### >* Loudness and acousticness
-###### >* Loudnesss and instrumentalness 
-###### >* Valence and instrumentalness
+###### * Energy and acousticness
+###### * Loudness and acousticness
+###### * Loudnesss and instrumentalness 
+###### * Valence and instrumentalness
 
 ###### Statistically significant correlations are visualised in scatter plots
 
